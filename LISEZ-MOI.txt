@@ -1,0 +1,14 @@
+MON ECOLE — WINDOWS
+
+Décompressez l'archive puis lancez MonEcole.exe depuis le dossier ECOLE LA REUSSITE. Gardez le dossier complet : runtime Java et pilote SQLite inclus.
+
+Connexion initiale : admin / admin123
+Changez le mot de passe depuis Utilisateurs avant d'utiliser les données de l'école.
+
+Emploi du temps : sélectionnez un créneau dans la liste puis utilisez Modifier le créneau ou Supprimer le créneau. Une confirmation est demandée avant suppression.
+
+Rapports : listes d'élèves par classe, soldes de scolarité, journal des paiements, résultats trimestriels et absences. Les rapports peuvent être imprimés ou exportés en CSV.
+
+La base locale est conservée dans %APPDATA%\MonEcole\mon_ecole.db.
+
+Emploi du temps : utilisez les filtres « Afficher la classe » et « Professeur » pour consulter le planning d'une classe, d'un professeur, ou combiner les deux filtres. « Tout afficher » réinitialise les filtres.
